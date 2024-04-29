@@ -1,0 +1,14 @@
+{
+
+    "firstname": "juancho",
+    "lastname":"automation",
+    "totalprice": 111,
+    "depositpaid": true,
+
+    "bookingDates": {
+        "checkin":"2024-05-04",
+        "checkOut":"2024-10-01"
+    },
+    "additionalneeds": "Breakfast"
+
+}
